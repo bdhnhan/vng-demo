@@ -1,5 +1,7 @@
 # vng-demo
 
 Step 1: drew install nginx
-Step 2: create new file config loadbalancer (python.conf)
-Step 3: include file has created at step 2 to nginx.conf
+
+Step 2: create a new file config load-balancer (python.conf)
+
+Step 3: Include the file created in step 2 to nginx.conf
